@@ -2,11 +2,6 @@
 @import url(font-awesome.min.css);
 @import url("//fonts.googleapis.com/css?family=Lato:300,400");
 
-/*
-	Interphase by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
 
 /* Basic */
 
@@ -1069,13 +1064,13 @@
 /* Footer */
 
 	#footer {
-		background: #202222;
-		color: #888;
+		background: #0A6738;
+		color: #FFFFFF;
 		padding: 6em 0em 4em;
 	}
 
 		#footer h2, #footer h3, #footer h4 {
-			color: #ffffff;
+			color: #FFFFFF;
 		}
 
 		#footer a {
@@ -1084,20 +1079,20 @@
 			-o-transition: all 0.2s ease-in-out;
 			-ms-transition: all 0.2s ease-in-out;
 			transition: all 0.2s ease-in-out;
-			color: #888;
+			color: #FFFFFF;
 		}
 
 			#footer a:active, #footer a:hover {
-				color: #ffffff;
+				color: #FFFFFF;
 			}
 
 		#footer .icons .rounded {
-			border-color: #888;
+			border-color: #FFFFFF;
 			font-size: 1.5em;
 		}
 
 			#footer .icons .rounded:active, #footer .icons .rounded:hover {
-				border-color: #ffffff;
+				border-color: #FFFFFF;
 			}
 
 		.copyright {
